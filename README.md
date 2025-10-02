@@ -1,4 +1,4 @@
-````markdown
+
 # Shopease – Modern Full-Stack E-Commerce Platform
 
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)  
