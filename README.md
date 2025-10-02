@@ -113,18 +113,3 @@ mailer.password=<app_password>
 
 This project is licensed under the **MIT License** – see the [LICENSE](LICENSE) file for details.
 
-```
-
----
-
-If you want, I can also make a **fancier GitHub README version** with:  
-
-- **Screenshots** of the UI  
-- **Demo GIF** for shopping/cart actions  
-- **Badges for technologies**  
-- **Table of contents**  
-
-This makes it look **like a professional portfolio-ready project**.  
-
-Do you want me to create that version too?
-```
